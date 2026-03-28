@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshulskumbhare/Fraud-Detection-System/blob/main/Fraud_Detection_System.ipynb)
 # 💳 Real-Time Fraud Detection System
 
 ## 🚀 Executive Summary
@@ -15,6 +16,6 @@ This project implements a high-performance Fraud Detection model using **LightGB
 * **Production Ready:** Includes a serialized `.pkl` model and feature mapping for API deployment.
 
 ## 📂 Project Structure
-* `Fraud_Detection_Notebook.ipynb`: Full end-to-end pipeline (EDA to Evaluation).
+* `Fraud_Detection_System.ipynb`: Full end-to-end pipeline (EDA to Evaluation).
 * `lgb_fraud_model.pkl`: The trained production model.
 * `model_features.txt`: Required feature list for model inference.
